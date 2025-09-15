@@ -39,7 +39,7 @@ Regession Output
 <img width="692" height="611" alt="Screenshot 2025-09-15 at 8 23 52 AM" src="https://github.com/user-attachments/assets/79af6772-c3e2-477b-b7ce-225ef9ebdd3f" />
 
 
-The results exhibit a trade-odff between income inequality and emissions. It implies the relationship needs to be further probed and contexulaized. 
+The results exhibit a trade-odff between income inequality and emissions. It implies this relationship needs to be further probed and contexulaized. 
 
 
 Further Quastions:
