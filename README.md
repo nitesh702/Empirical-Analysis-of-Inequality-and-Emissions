@@ -1,4 +1,4 @@
-# Empirical-Analysis-of-Inequality-and-Emissions
+# Empirical-Analysis-of-Inequality-and-Emissions Relationship
 
 This repository contains data, code and output tables for a panel data fixed effects analysis of income Inequality on GHG Emissions per capita. 
 
