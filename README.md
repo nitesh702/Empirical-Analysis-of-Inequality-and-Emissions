@@ -9,10 +9,12 @@ Data Coverage Summary
 
 
 
+
 Descriptive Statistics Summary
 
 
 <img width="658" height="271" alt="Screenshot 2025-09-15 at 8 44 35 AM" src="https://github.com/user-attachments/assets/3b4dbfb3-aea4-4f33-80de-7b40716b9747" />
+
 
 
 
@@ -22,9 +24,11 @@ Correlation Matrix
 
 
 
+
 Figures showing time trend of variables
 
 <img width="661" height="526" alt="Screenshot 2025-09-15 at 8 47 19 AM" src="https://github.com/user-attachments/assets/9225da83-5ae6-472c-bb49-1e1000dc9e1a" />
+
 
 
 
